@@ -4,7 +4,7 @@
 //   GET  /uso/:id  -> registro de uma pessoa
 //   PUT  /uso/:id  -> grava o registro inteiro {nome, dados}
 
-const ORIGENS = ["https://daianesilvasvc-afk.github.io"];
+const ORIGENS = ["https://podium-educacao-salesops.github.io", "https://daianesilvasvc-afk.github.io"];
 const MAX_BYTES = 256 * 1024;
 const ID_OK = /^[a-zA-Z0-9-]{8,64}$/;
 
